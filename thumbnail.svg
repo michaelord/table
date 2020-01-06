@@ -1,0 +1,18 @@
+<svg viewBox="0 0 260 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="25" y="50" width="210" height="2" fill="var(--color-contrast-low)"></rect>
+<rect x="25" y="148" width="210" height="2" fill="var(--color-contrast-low)"></rect>
+<rect x="25" y="52" width="210" height="32" fill="var(--color-contrast-lower)"></rect>
+<rect x="25" y="84" width="210" height="32" fill="var(--color-bg)"></rect>
+<rect x="25" y="116" width="210" height="32" fill="var(--color-contrast-lower)"></rect>
+<rect x="37" y="64" width="48" height="8" fill="var(--color-contrast-medium)"></rect>
+<rect x="189" y="64" width="34" height="8" fill="var(--color-contrast-medium)"></rect>
+<rect x="37" y="96" width="38" height="8" fill="var(--color-contrast-medium)"></rect>
+<rect x="189" y="96" width="34" height="8" fill="var(--color-contrast-medium)"></rect>
+<rect x="37" y="128" width="48" height="8" fill="var(--color-contrast-medium)"></rect>
+<rect x="189" y="128" width="34" height="8" fill="var(--color-contrast-medium)"></rect>
+<rect x="130" y="64" width="36" height="8" fill="var(--color-contrast-medium)"></rect>
+<rect x="130" y="96" width="36" height="8" fill="var(--color-contrast-medium)"></rect>
+<rect x="130" y="128" width="36" height="8" fill="var(--color-contrast-medium)"></rect>
+<rect x="130" y="30" width="34" height="8" fill="var(--color-contrast-high)"></rect>
+<rect x="189" y="30" width="34" height="8" fill="var(--color-contrast-high)"></rect>
+</svg>

@@ -1,0 +1,23 @@
+{
+	"name": "table",
+	"private": true,
+	"description": "...",
+	"version": "0.1.0",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/michaelord/table.git"
+	},
+	"devDependencies": {},
+	"author": "michaelord",
+	"keywords": [],
+	"dependencies": {
+		"components/editable": "http://github.com/michaelord/editable.git",
+		"components/accordion": "http://github.com/michaelord/accordion.git",
+		"components/alert": "http://github.com/michaelord/alert.git",
+		"components/icon": "http://github.com/michaelord/icon.git",
+		"components/layout": "http://github.com/michaelord/layout.git",
+		"components/libs": "http://github.com/michaelord/libs.git",
+		"components/types": "http://github.com/michaelord/types.git"
+	}
+}
